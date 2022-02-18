@@ -1,11 +1,6 @@
-# 导航
+# :blue_book:XiYun-Notes
 
-- [资源](其他/目录.md)
-- [计算机系统](计算机系统/目录.md)
-- [后端](后端/目录.md)
-- [大数据](大数据/目录.md)
-- [云计算](云计算/目录.md)
-- [人工智能](人工智能/目录.md)
-- [前端](前端/目录.md)
-- [运维](运维/目录.md)
+:mag:The road to Java learning is difficult and long.
+
+在线阅读：https://glong1997.github.io/XiYun-Notes/
 
